@@ -3,3 +3,6 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/digigat1/crm.digi-gate.com/
     - /bin/cp * $DEPLOYPATH
+
+
+    
