@@ -4,7 +4,7 @@
         "to": "admin@example.com"
     },
     "endpoints": [{
-        "repo": "user/repository",
+        "repo": "freejob985/test_git.git",
         "branch": "master",
         "action": "something has been changed on the server",
         "run": "/path/to/update_script.sh"
