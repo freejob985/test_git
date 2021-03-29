@@ -2,6 +2,6 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/engwalaa/repositories/test_git
-    - /home/engwalaa/repositories/test_git * $DEPLOYPATH
+    - /bin/cp * $DEPLOYPATH
 
 
