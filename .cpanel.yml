@@ -1,8 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/digigat1/crm.digi-gate.com/
-    - /bin/cp * $DEPLOYPATH
+    - export DEPLOYPATH=/home/engwalaa/repositories/test_git
+    - /home/engwalaa/repositories/test_git * $DEPLOYPATH
 
 
-    
